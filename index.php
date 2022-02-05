@@ -5,9 +5,6 @@
 </head>
 
 <body>
-    <p class="l1">Digital Assignment - 4</p>
-    <p class="l2">Name: Vishnu Nair</p>
-    <p class="l3">Registeration No. : 19BCE2467</p>
     <br>
     <hr>
     <hr>
